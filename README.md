@@ -22,3 +22,4 @@ Repeated failed logins indicate possible credential attacks.
 
 ## Conclusion
 Monitoring authentication logs in Splunk helps detect early-stage attacks.
+

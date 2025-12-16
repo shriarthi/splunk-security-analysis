@@ -1,1 +1,7 @@
+<<<<<<< HEAD
+=======
+index=main status=failed
+| stats count by user, src_ip
+| sort -count
+>>>>>>> 50c4959 (Splunk security log analysis project)
 

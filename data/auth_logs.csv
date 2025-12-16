@@ -6,3 +6,7 @@ timestamp,user,src_ip,status
 2025-06-13 10:02:10,root,203.0.113.45,failed
 2025-06-13 10:02:20,root,203.0.113.45,failed
 2025-06-13 10:02:35,root,203.0.113.45,failed
+<<<<<<< HEAD
+=======
+
+>>>>>>> 50c4959 (Splunk security log analysis project)
