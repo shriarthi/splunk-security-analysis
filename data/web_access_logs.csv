@@ -1,0 +1,8 @@
+timestamp,client_ip,method,url,status_code,user_agent
+2025-06-13 11:01:10,203.0.113.10,GET,/login,200,Mozilla
+2025-06-13 11:01:20,203.0.113.10,POST,/login,401,Mozilla
+2025-06-13 11:01:30,203.0.113.10,POST,/login,401,Mozilla
+2025-06-13 11:01:45,198.51.100.23,GET,/admin,403,curl
+2025-06-13 11:02:05,198.51.100.23,GET,/admin,403,curl
+2025-06-13 11:02:30,192.0.2.55,GET,/search?q=' OR 1=1 --,200,sqlmap
+

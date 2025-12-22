@@ -1,0 +1,6 @@
+timestamp,event_type,user,src_ip,severity
+2025-06-13 12:01:01,account_lockout,admin,192.168.1.10,high
+2025-06-13 12:01:30,privilege_escalation,john,203.0.113.45,critical
+2025-06-13 12:02:10,unauthorized_access,root,198.51.100.23,high
+2025-06-13 12:02:45,malware_detected,,192.0.2.55,critical
+
