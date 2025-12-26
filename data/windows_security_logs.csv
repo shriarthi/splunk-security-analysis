@@ -1,0 +1,7 @@
+_time,EventCode,Account_Name,IpAddress,LogonType,Status
+2025-06-13 10:01:12,4625,john,10.10.10.5,3,failed
+2025-06-13 10:01:15,4625,john,10.10.10.5,3,failed
+2025-06-13 10:01:20,4625,john,10.10.10.5,3,failed
+2025-06-13 10:02:10,4624,john,10.10.10.5,3,success
+2025-06-13 10:05:44,4740,admin,10.10.10.5,,locked
+
