@@ -1,0 +1,3 @@
+index=main EventCode=4740
+| stats count by Account_Name, Caller_Computer_Name
+
